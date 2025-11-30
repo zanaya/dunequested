@@ -1,0 +1,25 @@
+{
+  "header": {
+    "home": "الرئيسية",
+    "about": "من نحن",
+    "destination": "الوجهات",
+    "service": "الخدمات",
+    "activities": "الأنشطة",
+    "pages": "الصفحات",
+    "blog": "المدونة",
+    "contact": "اتصل بنا",
+    "bookNow": "احجز الآن"
+  },
+  "banner": {
+    "subtitle": "تواصل معنا",
+    "title": "معلومات الاتصال"
+  },
+  "common": {
+    "address": "عنواننا",
+    "phoneNumber": "رقم الهاتف",
+    "emailAddress": "البريد الإلكتروني",
+    "bookNow": "احجز الآن",
+    "support": "الدعم",
+    "faq": "الأسئلة الشائعة"
+  }
+}

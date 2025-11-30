@@ -1,0 +1,25 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "About Us",
+    "destination": "Destination",
+    "service": "Service",
+    "activities": "Activities",
+    "pages": "Pages",
+    "blog": "Blog",
+    "contact": "Contact us",
+    "bookNow": "Book Now"
+  },
+  "banner": {
+    "subtitle": "Get In Touch",
+    "title": "Our Contact Information"
+  },
+  "common": {
+    "address": "Our Address",
+    "phoneNumber": "Phone Number",
+    "emailAddress": "Email Address",
+    "bookNow": "Book Now",
+    "support": "Support",
+    "faq": "FAQ"
+  }
+}

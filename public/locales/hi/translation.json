@@ -1,0 +1,99 @@
+{
+  "header": {
+    "home": "होम",
+    "about": "हमारे बारे में",
+    "destination": "गंतव्य",
+    "service": "सेवाएं",
+    "activities": "गतिविधियां",
+    "pages": "पेज",
+    "blog": "ब्लॉग",
+    "contact": "संपर्क करें",
+    "bookNow": "अभी बुक करें",
+    "shop": "शॉप",
+    "gallery": "गैलरी",
+    "ourTour": "हमारे टूर",
+    "resort": "रिसॉर्ट",
+    "tourGuide": "टूर गाइड",
+    "faq": "सामान्य प्रश्न",
+    "pricing": "मूल्य"
+  },
+  "menu": {
+    "language": "भाषा",
+    "support": "सहायता",
+    "shopDetails": "शॉप विवरण",
+    "cartPage": "कार्ट पेज",
+    "checkout": "चेकआउट",
+    "wishlist": "विशलिस्ट",
+    "tourDetails": "टूर विवरण",
+    "resortDetails": "रिसॉर्ट विवरण",
+    "blogDetails": "ब्लॉग विवरण",
+    "errorPage": "एरर पेज"
+  },
+  "banner": {
+    "welcomeTitle": "DuneQuested में आपका स्वागत है",
+    "subtitle": "अद्भुत स्थानों की खोज करें",
+    "mainTitle": "अपनी यात्रा को मजेदार और यादगार बनाएं",
+    "searchDestination": "गंतव्य खोजें",
+    "selectAdventure": "साहसिक गतिविधि चुनें",
+    "selectDuration": "अवधि चुनें",
+    "searchNow": "अभी खोजें"
+  },
+  "about": {
+    "title": "DuneQuested के बारे में",
+    "subtitle": "हम पेशेवर पर्यटक गाइड हैं",
+    "description": "विशेषज्ञ गाइडों के साथ सर्वश्रेष्ठ रेगिस्तान साहसिक यात्रा का अनुभव करें",
+    "yearsExperience": "वर्षों का अनुभव",
+    "tourGuides": "टूर गाइड",
+    "happyTravelers": "खुश यात्री",
+    "achievement": "उपलब्धियां"
+  },
+  "destination": {
+    "popular": "लोकप्रिय गंतव्य",
+    "featured": "विशेष टूर",
+    "recommended": "अनुशंसित स्थान",
+    "duration": "अवधि",
+    "location": "स्थान",
+    "price": "मूल्य",
+    "bookNow": "अभी बुक करें",
+    "viewDetails": "विवरण देखें",
+    "rating": "रेटिंग",
+    "reviews": "समीक्षाएं"
+  },
+  "contact": {
+    "getInTouch": "संपर्क करें",
+    "ourAddress": "हमारा पता",
+    "phoneNumber": "फोन नंबर",
+    "emailAddress": "ईमेल पता",
+    "sendMessage": "संदेश भेजें",
+    "yourName": "आपका नाम",
+    "yourEmail": "आपका ईमेल",
+    "subject": "विषय",
+    "message": "संदेश",
+    "submitNow": "अभी सबमिट करें"
+  },
+  "footer": {
+    "quickLinks": "क्विक लिंक्स",
+    "contactUs": "संपर्क करें",
+    "address": "दुबई, यूएई",
+    "workingHours": "24/7",
+    "followUs": "हमें फॉलो करें",
+    "subscribe": "सब्सक्राइब",
+    "copyright": "© 2025 DuneQuested. सर्वाधिकार सुरक्षित",
+    "newsletter": "हमारे न्यूज़लेटर की सदस्यता लें",
+    "emailPlaceholder": "अपना ईमेल दर्ज करें"
+  },
+  "common": {
+    "readMore": "और पढ़ें",
+    "viewAll": "सभी देखें",
+    "loading": "लोड हो रहा है...",
+    "success": "सफल",
+    "error": "त्रुटि",
+    "required": "आवश्यक",
+    "submit": "सबमिट",
+    "cancel": "रद्द करें",
+    "save": "सेव करें",
+    "delete": "डिलीट",
+    "edit": "एडिट",
+    "search": "खोज"
+  }
+}

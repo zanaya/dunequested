@@ -1,0 +1,99 @@
+{
+  "header": {
+    "home": "Главная",
+    "about": "О нас",
+    "destination": "Направления",
+    "service": "Услуги",
+    "activities": "Мероприятия",
+    "pages": "Страницы",
+    "blog": "Блог",
+    "contact": "Свяжитесь с нами",
+    "bookNow": "Забронировать",
+    "shop": "Магазин",
+    "gallery": "Галерея",
+    "ourTour": "Наши туры",
+    "resort": "Курорт",
+    "tourGuide": "Гид",
+    "faq": "ЧаВо",
+    "pricing": "Цены"
+  },
+  "menu": {
+    "language": "Язык",
+    "support": "Поддержка",
+    "shopDetails": "Детали магазина",
+    "cartPage": "Корзина",
+    "checkout": "Оформление заказа",
+    "wishlist": "Избранное",
+    "tourDetails": "Детали тура",
+    "resortDetails": "Детали курорта",
+    "blogDetails": "Детали блога",
+    "errorPage": "Страница ошибки"
+  },
+  "banner": {
+    "welcomeTitle": "Добро пожаловать в DuneQuested",
+    "subtitle": "Откройте для себя удивительные места",
+    "mainTitle": "Сделайте свое путешествие интересным и незабываемым",
+    "searchDestination": "Поиск направления",
+    "selectAdventure": "Выберите приключение",
+    "selectDuration": "Выберите продолжительность",
+    "searchNow": "Искать сейчас"
+  },
+  "about": {
+    "title": "О DuneQuested",
+    "subtitle": "Мы профессиональные туристические гиды",
+    "description": "Испытайте лучшие приключения в пустыне с опытными гидами",
+    "yearsExperience": "Лет опыта",
+    "tourGuides": "Гиды",
+    "happyTravelers": "Довольных путешественников",
+    "achievement": "Достижения"
+  },
+  "destination": {
+    "popular": "Популярные направления",
+    "featured": "Избранные туры",
+    "recommended": "Рекомендуемые места",
+    "duration": "Продолжительность",
+    "location": "Местоположение",
+    "price": "Цена",
+    "bookNow": "Забронировать",
+    "viewDetails": "Подробнее",
+    "rating": "Рейтинг",
+    "reviews": "Отзывы"
+  },
+  "contact": {
+    "getInTouch": "Свяжитесь с нами",
+    "ourAddress": "Наш адрес",
+    "phoneNumber": "Номер телефона",
+    "emailAddress": "Электронная почта",
+    "sendMessage": "Отправить сообщение",
+    "yourName": "Ваше имя",
+    "yourEmail": "Ваш email",
+    "subject": "Тема",
+    "message": "Сообщение",
+    "submitNow": "Отправить"
+  },
+  "footer": {
+    "quickLinks": "Быстрые ссылки",
+    "contactUs": "Свяжитесь с нами",
+    "address": "Дубай, ОАЭ",
+    "workingHours": "24/7",
+    "followUs": "Подписывайтесь на нас",
+    "subscribe": "Подписаться",
+    "copyright": "© 2025 DuneQuested. Все права защищены",
+    "newsletter": "Подпишитесь на нашу рассылку",
+    "emailPlaceholder": "Введите ваш email"
+  },
+  "common": {
+    "readMore": "Читать далее",
+    "viewAll": "Посмотреть все",
+    "loading": "Загрузка...",
+    "success": "Успешно",
+    "error": "Ошибка",
+    "required": "Обязательно",
+    "submit": "Отправить",
+    "cancel": "Отмена",
+    "save": "Сохранить",
+    "delete": "Удалить",
+    "edit": "Редактировать",
+    "search": "Поиск"
+  }
+}

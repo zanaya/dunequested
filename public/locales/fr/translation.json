@@ -1,0 +1,99 @@
+{
+  "header": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "destination": "Destinations",
+    "service": "Services",
+    "activities": "Activités",
+    "pages": "Pages",
+    "blog": "Blog",
+    "contact": "Contact",
+    "bookNow": "Réserver",
+    "shop": "Boutique",
+    "gallery": "Galerie",
+    "ourTour": "Nos Tours",
+    "resort": "Resort",
+    "tourGuide": "Guide Touristique",
+    "faq": "FAQ",
+    "pricing": "Tarifs"
+  },
+  "menu": {
+    "language": "Langue",
+    "support": "Support",
+    "shopDetails": "Détails Boutique",
+    "cartPage": "Panier",
+    "checkout": "Paiement",
+    "wishlist": "Liste de Souhaits",
+    "tourDetails": "Détails du Tour",
+    "resortDetails": "Détails du Resort",
+    "blogDetails": "Détails du Blog",
+    "errorPage": "Page d'Erreur"
+  },
+  "banner": {
+    "welcomeTitle": "Bienvenue sur DuneQuested",
+    "subtitle": "Découvrez des Lieux Incroyables",
+    "mainTitle": "Rendez Votre Voyage Amusant et Mémorable",
+    "searchDestination": "Rechercher une Destination",
+    "selectAdventure": "Sélectionner une Aventure",
+    "selectDuration": "Sélectionner la Durée",
+    "searchNow": "Rechercher"
+  },
+  "about": {
+    "title": "À Propos de DuneQuested",
+    "subtitle": "Nous Sommes des Guides Touristiques Professionnels",
+    "description": "Vivez les meilleures aventures du désert avec des guides experts",
+    "yearsExperience": "Années d'Expérience",
+    "tourGuides": "Guides Touristiques",
+    "happyTravelers": "Voyageurs Satisfaits",
+    "achievement": "Réalisations"
+  },
+  "destination": {
+    "popular": "Destinations Populaires",
+    "featured": "Tours en Vedette",
+    "recommended": "Lieux Recommandés",
+    "duration": "Durée",
+    "location": "Emplacement",
+    "price": "Prix",
+    "bookNow": "Réserver",
+    "viewDetails": "Voir Détails",
+    "rating": "Note",
+    "reviews": "Avis"
+  },
+  "contact": {
+    "getInTouch": "Contactez-nous",
+    "ourAddress": "Notre Adresse",
+    "phoneNumber": "Numéro de Téléphone",
+    "emailAddress": "Adresse Email",
+    "sendMessage": "Envoyer un Message",
+    "yourName": "Votre Nom",
+    "yourEmail": "Votre Email",
+    "subject": "Sujet",
+    "message": "Message",
+    "submitNow": "Envoyer"
+  },
+  "footer": {
+    "quickLinks": "Liens Rapides",
+    "contactUs": "Contactez-nous",
+    "address": "Dubai, UAE",
+    "workingHours": "24/7",
+    "followUs": "Suivez-nous",
+    "subscribe": "S'abonner",
+    "copyright": "© 2025 DuneQuested. Tous droits réservés",
+    "newsletter": "Abonnez-vous à notre Newsletter",
+    "emailPlaceholder": "Entrez votre email"
+  },
+  "common": {
+    "readMore": "Lire Plus",
+    "viewAll": "Voir Tout",
+    "loading": "Chargement...",
+    "success": "Succès",
+    "error": "Erreur",
+    "required": "Requis",
+    "submit": "Soumettre",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "search": "Rechercher"
+  }
+}

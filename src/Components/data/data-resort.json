@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "image": "resort_1_1.webp",
+        "bannerImg": "resort-details.webp",
+        "title": "Ocean View Resort",
+        "price": "$350.00"
+    },
+    {
+        "id": 2,
+        "image": "resort_1_2.webp",
+        "bannerImg": "resort-details.webp",
+        "title": "Premiur Forest Resort",
+        "price": "$250.00"
+    },
+    {
+        "id": 3,
+        "image": "resort_1_3.webp",
+        "bannerImg": "resort-details.webp",
+        "title": "Delux Hilltop Resort",
+        "price": "$980.00"
+    }
+]

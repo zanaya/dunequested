@@ -1,0 +1,99 @@
+{
+  "header": {
+    "home": "ہوم",
+    "about": "ہمارے بارے میں",
+    "destination": "مقامات",
+    "service": "خدمات",
+    "activities": "سرگرمیاں",
+    "pages": "صفحات",
+    "blog": "بلاگ",
+    "contact": "رابطہ کریں",
+    "bookNow": "ابھی بک کریں",
+    "shop": "شاپ",
+    "gallery": "گیلری",
+    "ourTour": "ہمارے ٹور",
+    "resort": "ریزورٹ",
+    "tourGuide": "ٹور گائیڈ",
+    "faq": "عمومی سوالات",
+    "pricing": "قیمتیں"
+  },
+  "menu": {
+    "language": "زبان",
+    "support": "سپورٹ",
+    "shopDetails": "شاپ کی تفصیلات",
+    "cartPage": "کارٹ پیج",
+    "checkout": "چیک آؤٹ",
+    "wishlist": "مطلوبہ فہرست",
+    "tourDetails": "ٹور کی تفصیلات",
+    "resortDetails": "ریزورٹ کی تفصیلات",
+    "blogDetails": "بلاگ کی تفصیلات",
+    "errorPage": "خرابی کا صفحہ"
+  },
+  "banner": {
+    "welcomeTitle": "DuneQuested میں خوش آمدید",
+    "subtitle": "حیرت انگیز مقامات دریافت کریں",
+    "mainTitle": "اپنے سفر کو خوشگوار اور یادگار بنائیں",
+    "searchDestination": "مقام تلاش کریں",
+    "selectAdventure": "مہم جوئی منتخب کریں",
+    "selectDuration": "مدت منتخب کریں",
+    "searchNow": "ابھی تلاش کریں"
+  },
+  "about": {
+    "title": "DuneQuested کے بارے میں",
+    "subtitle": "ہم پیشہ ور سیاحتی گائیڈ ہیں",
+    "description": "ماہر گائیڈز کے ساتھ بہترین صحرائی مہم جوئی کا تجربہ کریں",
+    "yearsExperience": "سالوں کا تجربہ",
+    "tourGuides": "ٹور گائیڈز",
+    "happyTravelers": "خوش مسافر",
+    "achievement": "کامیابیاں"
+  },
+  "destination": {
+    "popular": "مقبول مقامات",
+    "featured": "نمایاں ٹورز",
+    "recommended": "تجویز کردہ مقامات",
+    "duration": "مدت",
+    "location": "مقام",
+    "price": "قیمت",
+    "bookNow": "ابھی بک کریں",
+    "viewDetails": "تفصیلات دیکھیں",
+    "rating": "درجہ بندی",
+    "reviews": "جائزے"
+  },
+  "contact": {
+    "getInTouch": "رابطہ کریں",
+    "ourAddress": "ہمارا پتہ",
+    "phoneNumber": "فون نمبر",
+    "emailAddress": "ای میل پتہ",
+    "sendMessage": "پیغام بھیجیں",
+    "yourName": "آپ کا نام",
+    "yourEmail": "آپ کا ای میل",
+    "subject": "موضوع",
+    "message": "پیغام",
+    "submitNow": "ابھی جمع کریں"
+  },
+  "footer": {
+    "quickLinks": "فوری روابط",
+    "contactUs": "ہم سے رابطہ کریں",
+    "address": "دبئی، یو اے ای",
+    "workingHours": "24/7",
+    "followUs": "ہمیں فالو کریں",
+    "subscribe": "سبسکرائب کریں",
+    "copyright": "© 2025 DuneQuested۔ جملہ حقوق محفوظ ہیں",
+    "newsletter": "ہماری نیوز لیٹر کے لیے سبسکرائب کریں",
+    "emailPlaceholder": "اپنا ای میل درج کریں"
+  },
+  "common": {
+    "readMore": "مزید پڑھیں",
+    "viewAll": "سب دیکھیں",
+    "loading": "لوڈ ہو رہا ہے...",
+    "success": "کامیاب",
+    "error": "خرابی",
+    "required": "ضروری",
+    "submit": "جمع کریں",
+    "cancel": "منسوخ کریں",
+    "save": "محفوظ کریں",
+    "delete": "حذف کریں",
+    "edit": "ترمیم کریں",
+    "search": "تلاش کریں"
+  }
+}

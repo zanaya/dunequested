@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "image": "tour_5_1.webp",
+        "bannerImg": "tour_5_1.webp",
+        "title": "Quad Bike 450cc",
+      "duration": "30 Minutes",
+        "type":  "Adventure",
+        "seating": "Single Seater",
+        "rating": 3.5,
+        "reviewCount": 10,
+        "activitiesLinks": "/quad-bike-450cc",
+        "price": "AED 300.00"
+    },
+  {
+    "id": 2,
+    "image": "tour_5_2.webp",
+    "bannerImg": "tour_5_2.webp",
+    "title": "Buggy 1000cc",
+    "duration": "45 Minutes",
+    "type": "Adventure",
+    "seating": "Double Seater",
+    "reviewCount": 8,
+    "activitiesLinks": "/buggy-1000cc",
+    "rating": 4.5,
+    "price": "AED 650.00"
+  },
+  {
+    "id": 3,
+    "image": "tour_5_3.webp",
+    "bannerImg": "tour_5_3.webp",
+    "title": "Can am 1500cc",
+    "duration": "30 Minutes",
+    "type": "Adventure",
+    "seating": "Single Seater",
+    "rating": 4.0,
+    "reviewCount": 5,
+    "activitiesLinks": "/can-am-1500cc",
+    "price": "AED 700.00"
+  },
+  {
+    "id": 4,
+    "image": "tour_5_4.webp",
+    "bannerImg": "tour_5_4.webp",
+    "title": "Raptor 750cc",
+    "duration": "30 Minutes",
+    "type": "Adventure",
+    "seating": "Single Seater",
+    "rating": 3.0,
+    "reviewCount": 4,
+    "activitiesLinks": "/raptor-750cc",
+    "price": "AED 650.00"
+  },
+  {
+    "id": 5,
+    "image": "tour_5_5.webp",
+    "bannerImg": "tour_5_5.webp",
+    "title": "KTM Bike",
+    "duration": "30 Minutes",
+    "type": "Adventure",
+    "seating": "Single Seater",
+    "rating": 3.5,
+    "reviewCount": 3,
+    "activitiesLinks": "/ktm-bike",
+    "price": "AED 450.00"
+  },
+  {
+    "id": 6,
+    "image": "tour_5_7.webp",
+    "bannerImg": "tour_5_7.webp",
+    "title": "XRX CAN-AM",
+    "duration": "30 Minutes",
+    "type": "Adventure",
+    "seating": "Single Seater",
+    "rating": 4.5,
+    "reviewCount": 6,
+    "activitiesLinks": "/xrx-can-am",
+    "price": "AED 1000.00"
+  },
+  {
+
+
+    "id": 7,
+    "image": "tour_13_1.webp",
+    "bannerImg": "tour_13_1.webp",
+    "title": "Standard Desert Safari",
+    "duration": "6 Hours",
+    "type": "Standard Desert Safari",
+    "rating": 4.0,
+    "reviewCount": 12,
+    "activitiesLinks": "/standard-desert-safari",
+    "price": "AED 125.00"
+  },
+  {
+
+
+    "id": 8,
+    "image": "tour_4_5.webp",
+    "bannerImg": "tour_4_5.webp",
+    "title": "Premium Desert Safari",
+    "duration": "6 Hours",
+    "type": "Premium Desert Safari",
+    "rating": 4.0,
+    "reviewCount": 12,
+    "activitiesLinks": "/premium-desert-safari",
+    "price": "AED 230.00"
+  },
+  {
+
+
+    "id": 9,
+    "image": "tour_5_6.webp",
+    "bannerImg": "tour_5_6.webp",
+    "title": "VIP Desert Safari",
+    "duration": "6 Hours",
+    "type": "Vip Desert Safari",
+    "rating": 4.0,
+    "reviewCount": 12,
+    "activitiesLinks": "/vip-desert-safari",
+    "price": "AED 390.00"
+  }
+]

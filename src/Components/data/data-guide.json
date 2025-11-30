@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "thumb": "team_img_1.webp",
+        "image": "team_1_1.webp",
+        "bannerImg": "team_1_1.webp",
+        "title": "Michel Smith"
+    },
+    {
+        "id": 2,
+        "thumb": "team_img_2.webp",
+        "image": "team_1_2.webp",
+        "bannerImg": "team_1_2.webp",
+        "title": "Janny Willson"
+    },
+    {
+        "id": 3,
+        "thumb": "team_img_3.webp",
+        "image": "team_1_3.webp",
+        "bannerImg": "team_1_3.webp",
+        "title": "Jacob Jones"
+    },
+    {
+        "id": 4,
+        "thumb": "team_img_4.webp",
+        "image": "team_1_4.webp",
+        "bannerImg": "team_1_4.webp",
+        "title": "Maria Prova"
+    },
+    {
+        "id": 5,
+        "thumb": "team_img_5.webp",
+        "image": "team_1_5.webp",
+        "bannerImg": "team_1_5.webp",
+        "title": "Rebeka Maliha"
+    },
+    {
+        "id": 6,
+        "thumb": "team_img_6.webp",
+        "image": "team_1_6.webp",
+        "bannerImg": "team_1_6.webp",
+        "title": "Alif Mahmud"
+    }
+]

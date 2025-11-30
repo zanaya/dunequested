@@ -1,0 +1,192 @@
+[
+    {
+        "id": 1,
+        "image": "tour_3_1.webp",
+        "bannerImg": "destination-details.webp",
+        "title": "Dubai",
+        "price": "$980.00"
+    },
+    {
+        "id": 2,
+        "image": "tour_3_2.webp",
+        "bannerImg": "destination-details.webp",
+        "title": "Italy",
+        "price": "$880.00"
+    },
+    {
+        "id": 3,
+        "image": "tour_3_3.webp",
+        "bannerImg": "destination-details.webp",
+        "title": "France",
+        "price": "$680.00"
+    },
+    {
+        "id": 4,
+        "image": "tour_3_4.webp",
+        "bannerImg": "destination-details.webp",
+        "title": "Maldives",
+        "price": "$580.00"
+    },
+    {
+        "id": 5,
+        "image": "tour_3_5.webp",
+        "bannerImg": "destination-details.webp",
+        "title": "Belgium",
+        "price": "$480.00"
+    },
+    {
+        "id": 6,
+        "image": "tour_3_6.webp",
+        "bannerImg": "destination-details.webp",
+        "title": "Brazil",
+        "price": "$380.00"
+    },
+    {
+        "id": 7,
+        "image": "tour_3_7.webp",
+        "bannerImg": "destination-details.webp",
+        "title": "Spain",
+        "price": "$580.00"
+    },
+    {
+        "id": 8,
+        "image": "tour_3_8.webp",
+        "bannerImg": "destination-details.webp",
+        "title": "Greece",
+        "price": "$680.00"
+    },
+    {
+        "id": 9,
+        "image": "tour_3_9.webp",
+        "bannerImg": "destination-details.webp",
+        "title": "Newzealand",
+        "price": "$780.00"
+    },
+    {
+        "id": 10,
+        "image": "tour_3_9.webp",
+        "bannerImg": "destination-details.webp",
+        "title": "Dubai",
+        "price": "$980.00"
+    },
+    {
+        "id": 11,
+        "image": "tour_3_8.webp",
+        "bannerImg": "destination-details.webp",
+        "title": "Italy",
+        "price": "$880.00"
+    },
+    {
+        "id": 12,
+        "image": "tour_3_7.webp",
+        "bannerImg": "destination-details.webp",
+        "title": "France",
+        "price": "$680.00"
+    },
+    {
+        "id": 13,
+        "image": "tour_3_6.webp",
+        "bannerImg": "destination-details.webp",
+        "title": "Maldives",
+        "price": "$580.00"
+    },
+    {
+        "id": 14,
+        "image": "tour_3_5.webp",
+        "bannerImg": "destination-details.webp",
+        "title": "Belgium",
+        "price": "$480.00"
+    },
+    {
+        "id": 15,
+        "image": "tour_3_4.webp",
+        "bannerImg": "destination-details.webp",
+        "title": "Brazil",
+        "price": "$380.00"
+    },
+    {
+        "id": 16,
+        "image": "tour_3_3.webp",
+        "bannerImg": "destination-details.webp",
+        "title": "Spain",
+        "price": "$580.00"
+    },
+    {
+        "id": 17,
+        "image": "tour_3_2.webp",
+        "bannerImg": "destination-details.webp",
+        "title": "Greece",
+        "price": "$680.00"
+    },
+    {
+        "id": 18,
+        "image": "tour_3_1.webp",
+        "bannerImg": "destination-details.webp",
+        "title": "Newzealand",
+        "price": "$780.00"
+    },
+    {
+        "id": 19,
+        "image": "tour_3_1.webp",
+        "bannerImg": "destination-details.webp",
+        "title": "Dubai",
+        "price": "$980.00"
+    },
+    {
+        "id": 20,
+        "image": "tour_3_2.webp",
+        "bannerImg": "destination-details.webp",
+        "title": "Italy",
+        "price": "$880.00"
+    },
+    {
+        "id": 21,
+        "image": "tour_3_3.webp",
+        "bannerImg": "destination-details.webp",
+        "title": "France",
+        "price": "$680.00"
+    },
+    {
+        "id": 22,
+        "image": "tour_3_4.webp",
+        "bannerImg": "destination-details.webp",
+        "title": "Maldives",
+        "price": "$580.00"
+    },
+    {
+        "id": 23,
+        "image": "tour_3_5.webp",
+        "bannerImg": "destination-details.webp",
+        "title": "Belgium",
+        "price": "$480.00"
+    },
+    {
+        "id": 24,
+        "image": "tour_3_6.webp",
+        "bannerImg": "destination-details.webp",
+        "title": "Brazil",
+        "price": "$380.00"
+    },
+    {
+        "id": 25,
+        "image": "tour_3_7.webp",
+        "bannerImg": "destination-details.webp",
+        "title": "Spain",
+        "price": "$580.00"
+    },
+    {
+        "id": 26,
+        "image": "tour_3_8.webp",
+        "bannerImg": "destination-details.webp",
+        "title": "Greece",
+        "price": "$680.00"
+    },
+    {
+        "id": 27,
+        "image": "tour_3_9.webp",
+        "bannerImg": "destination-details.webp",
+        "title": "Newzealand",
+        "price": "$780.00"
+    }
+
+]

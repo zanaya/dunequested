@@ -1,0 +1,99 @@
+{
+  "header": {
+    "home": "主页",
+    "about": "关于我们",
+    "destination": "目的地",
+    "service": "服务",
+    "activities": "活动",
+    "pages": "页面",
+    "blog": "博客",
+    "contact": "联系我们",
+    "bookNow": "立即预订",
+    "shop": "商店",
+    "gallery": "画廊",
+    "ourTour": "我们的旅游",
+    "resort": "度假村",
+    "tourGuide": "导游",
+    "faq": "常见问题",
+    "pricing": "价格"
+  },
+  "menu": {
+    "language": "语言",
+    "support": "支持",
+    "shopDetails": "商店详情",
+    "cartPage": "购物车",
+    "checkout": "结账",
+    "wishlist": "愿望清单",
+    "tourDetails": "旅游详情",
+    "resortDetails": "度假村详情",
+    "blogDetails": "博客详情",
+    "errorPage": "错误页面"
+  },
+  "banner": {
+    "welcomeTitle": "欢迎来到 DuneQuested",
+    "subtitle": "发现精彩地点",
+    "mainTitle": "让您的旅程充满乐趣和难忘的回忆",
+    "searchDestination": "搜索目的地",
+    "selectAdventure": "选择冒险",
+    "selectDuration": "选择持续时间",
+    "searchNow": "立即搜索"
+  },
+  "about": {
+    "title": "关于 DuneQuested",
+    "subtitle": "我们是专业的旅游导游",
+    "description": "与专业导游一起体验最佳沙漠冒险",
+    "yearsExperience": "年经验",
+    "tourGuides": "导游",
+    "happyTravelers": "快乐旅客",
+    "achievement": "成就"
+  },
+  "destination": {
+    "popular": "热门目的地",
+    "featured": "精选旅游",
+    "recommended": "推荐地点",
+    "duration": "持续时间",
+    "location": "位置",
+    "price": "价格",
+    "bookNow": "立即预订",
+    "viewDetails": "查看详情",
+    "rating": "评分",
+    "reviews": "评论"
+  },
+  "contact": {
+    "getInTouch": "联系我们",
+    "ourAddress": "我们的地址",
+    "phoneNumber": "电话号码",
+    "emailAddress": "电子邮件",
+    "sendMessage": "发送消息",
+    "yourName": "您的姓名",
+    "yourEmail": "您的邮箱",
+    "subject": "主题",
+    "message": "消息",
+    "submitNow": "立即提交"
+  },
+  "footer": {
+    "quickLinks": "快速链接",
+    "contactUs": "联系我们",
+    "address": "迪拜，阿联酋",
+    "workingHours": "24/7",
+    "followUs": "关注我们",
+    "subscribe": "订阅",
+    "copyright": "© 2025 DuneQuested。保留所有权利",
+    "newsletter": "订阅我们的新闻简报",
+    "emailPlaceholder": "输入您的邮箱"
+  },
+  "common": {
+    "readMore": "阅读更多",
+    "viewAll": "查看全部",
+    "loading": "加载中...",
+    "success": "成功",
+    "error": "错误",
+    "required": "必填",
+    "submit": "提交",
+    "cancel": "取消",
+    "save": "保存",
+    "delete": "删除",
+    "edit": "编辑",
+    "search": "搜索"
+  }
+}

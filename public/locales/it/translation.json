@@ -1,0 +1,99 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "Chi Siamo",
+    "destination": "Destinazioni",
+    "service": "Servizi",
+    "activities": "Attività",
+    "pages": "Pagine",
+    "blog": "Blog",
+    "contact": "Contatti",
+    "bookNow": "Prenota Ora",
+    "shop": "Negozio",
+    "gallery": "Galleria",
+    "ourTour": "I Nostri Tour",
+    "resort": "Resort",
+    "tourGuide": "Guida Turistica",
+    "faq": "FAQ",
+    "pricing": "Prezzi"
+  },
+  "menu": {
+    "language": "Lingua",
+    "support": "Supporto",
+    "shopDetails": "Dettagli Negozio",
+    "cartPage": "Carrello",
+    "checkout": "Checkout",
+    "wishlist": "Lista Desideri",
+    "tourDetails": "Dettagli Tour",
+    "resortDetails": "Dettagli Resort",
+    "blogDetails": "Dettagli Blog",
+    "errorPage": "Pagina Errore"
+  },
+  "banner": {
+    "welcomeTitle": "Benvenuti su DuneQuested",
+    "subtitle": "Scopri Luoghi Incredibili",
+    "mainTitle": "Rendi il Tuo Viaggio Divertente e Memorabile",
+    "searchDestination": "Cerca Destinazione",
+    "selectAdventure": "Seleziona Avventura",
+    "selectDuration": "Seleziona Durata",
+    "searchNow": "Cerca Ora"
+  },
+  "about": {
+    "title": "Su DuneQuested",
+    "subtitle": "Siamo Guide Turistiche Professionali",
+    "description": "Vivi le migliori avventure nel deserto con guide esperte",
+    "yearsExperience": "Anni di Esperienza",
+    "tourGuides": "Guide Turistiche",
+    "happyTravelers": "Viaggiatori Felici",
+    "achievement": "Risultati"
+  },
+  "destination": {
+    "popular": "Destinazioni Popolari",
+    "featured": "Tour in Evidenza",
+    "recommended": "Luoghi Consigliati",
+    "duration": "Durata",
+    "location": "Posizione",
+    "price": "Prezzo",
+    "bookNow": "Prenota Ora",
+    "viewDetails": "Vedi Dettagli",
+    "rating": "Valutazione",
+    "reviews": "Recensioni"
+  },
+  "contact": {
+    "getInTouch": "Contattaci",
+    "ourAddress": "Il Nostro Indirizzo",
+    "phoneNumber": "Numero di Telefono",
+    "emailAddress": "Indirizzo Email",
+    "sendMessage": "Invia Messaggio",
+    "yourName": "Il Tuo Nome",
+    "yourEmail": "La Tua Email",
+    "subject": "Oggetto",
+    "message": "Messaggio",
+    "submitNow": "Invia Ora"
+  },
+  "footer": {
+    "quickLinks": "Link Rapidi",
+    "contactUs": "Contattaci",
+    "address": "Dubai, UAE",
+    "workingHours": "24/7",
+    "followUs": "Seguici",
+    "subscribe": "Iscriviti",
+    "copyright": "© 2025 DuneQuested. Tutti i diritti riservati",
+    "newsletter": "Iscriviti alla nostra Newsletter",
+    "emailPlaceholder": "Inserisci la tua email"
+  },
+  "common": {
+    "readMore": "Leggi di Più",
+    "viewAll": "Vedi Tutto",
+    "loading": "Caricamento...",
+    "success": "Successo",
+    "error": "Errore",
+    "required": "Obbligatorio",
+    "submit": "Invia",
+    "cancel": "Annulla",
+    "save": "Salva",
+    "delete": "Elimina",
+    "edit": "Modifica",
+    "search": "Cerca"
+  }
+}

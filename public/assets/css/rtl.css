@@ -1,0 +1,112 @@
+/* RTL Support Styles */
+body.rtl {
+    direction: rtl;
+    text-align: right;
+}
+
+/* Header RTL Adjustments */
+body.rtl .header-layout2 .header-links ul {
+    padding-right: 0;
+}
+
+body.rtl .header-layout2 .nice-select .list {
+    text-align: right;
+}
+
+/* Navigation RTL Adjustments */
+body.rtl .main-menu > ul > li {
+    float: right;
+}
+
+body.rtl .main-menu ul li .sub-menu {
+    left: auto;
+    right: 0;
+}
+
+/* Content RTL Adjustments */
+body.rtl .title-area {
+    text-align: right;
+}
+
+body.rtl .about-contact-grid {
+    text-align: right;
+}
+
+body.rtl .about-contact-icon {
+    margin-right: 0;
+    margin-left: 15px;
+}
+
+/* Form Elements RTL */
+body.rtl input[type="text"],
+body.rtl input[type="email"],
+body.rtl textarea {
+    text-align: right;
+}
+
+/* Footer RTL */
+body.rtl .footer-widget {
+    text-align: right;
+}
+
+/* Nice Select RTL */
+body.rtl .nice-select {
+    text-align: right !important;
+}
+
+body.rtl .nice-select:after {
+    right: auto;
+    left: 12px;
+}
+
+body.rtl .nice-select .option {
+    text-align: right;
+}
+
+/* Arrows and Icons RTL */
+body.rtl .fa-arrow-right:before {
+    content: "\\f060"; /* Font Awesome left arrow */
+}
+
+body.rtl .fa-arrow-left:before {
+    content: "\\f061"; /* Font Awesome right arrow */
+}
+
+/* Mobile Menu RTL */
+body.rtl .mobile-menu {
+    left: auto;
+    right: -300px;
+    text-align: right;
+}
+
+body.rtl .mobile-menu.show {
+    right: 0;
+}
+
+/* Spacing Adjustments for RTL */
+body.rtl .ms-1,
+body.rtl .ms-2,
+body.rtl .ms-3,
+body.rtl .ms-4,
+body.rtl .ms-5 {
+    margin-right: 0.25rem !important;
+    margin-left: 0 !important;
+}
+
+body.rtl .me-1,
+body.rtl .me-2,
+body.rtl .me-3,
+body.rtl .me-4,
+body.rtl .me-5 {
+    margin-left: 0.25rem !important;
+    margin-right: 0 !important;
+}
+
+/* RTL Grid System Adjustments */
+body.rtl .offset-1,
+body.rtl .offset-2,
+body.rtl .offset-3,
+body.rtl .offset-4 {
+    margin-right: auto;
+    margin-left: 0;
+}
